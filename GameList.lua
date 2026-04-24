@@ -5,6 +5,7 @@ local Games = {
   [9186719164] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/Sailor%20Piece", -- Sailor Piece
   [994732206]  = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/VoidHub%20PvP", -- Blox Fruits
   [9787206684] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/Be%20A%20Lucky%20Block", -- Be a Lucky Block
+  [9098570654] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/STA.luau", -- Survive The Apocalypse
 }
 
 return Games
