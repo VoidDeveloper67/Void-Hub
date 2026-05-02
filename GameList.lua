@@ -6,6 +6,7 @@ local Games = {
   [994732206]  = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/VoidHub%20PvP", -- Blox Fruits
   [9787206684] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/Be%20A%20Lucky%20Block", -- Be a Lucky Block
   [9098570654] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/STA.luau", -- Survive The Apocalypse
+  [10004244222] = "https://api.luarmor.net/files/v4/loaders/3804f87ddf39261103b63af76f47e943.lua", -- Kick a Lucky Block
 }
 
 return Games
