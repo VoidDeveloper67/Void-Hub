@@ -9,7 +9,7 @@ local Games = {
   [10004244222] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/Kick%20A%20Lucky%20Block", -- Kick a Lucky Block
   [9792947201] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/Rng-Slime.luau", -- Slime RNG
   [9348272796] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/Survive%20Zombie%20Arena.luau", -- Survive Zombie Arena
-  [10039338037] = "https://raw.githubusercontent.com/VoidDeveloper67/VoidHub-Scripts/refs/heads/main/Build%20A%20Ring%20Farm.luau", -- Build A Ring Farm
+  [10039338037] = "loadstring(game:HttpGet('https://lua.services/api/scripts/c989e97b10506b0cc7dd45420e92e8ce/loader'))()", -- Build A Ring Farm
   [7395930870] = "loadstring(game:HttpGet('https://lua.services/api/scripts/aefcedd92881351115b4720df9bb46d4/loader'))()", -- Sell Lemons 🍋
 }
 
